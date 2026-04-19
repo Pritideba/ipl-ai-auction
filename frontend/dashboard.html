@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Auction Analytics Dashboard</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<h1>IPL Auction Analytics Dashboard</h1>
+
+<div class="charts">
+
+<canvas id="spendingChart"></canvas>
+
+<canvas id="squadChart"></canvas>
+
+</div>
+
+<button onclick="goLeaderboard()">View Leaderboard</button>
+
+<script>
+
+// example data (you can connect real data later)
+
+const teams = ["MI","CSK","RCB","KKR","DC","RR","SRH","PBKS","LSG","GT"]
+
+const spending = [120,110,130,95,100,105,90,85,115,108]
+
+const squadSize = [18,17,16,15,17,16,14,13,18,17]
+
+
+// spending chart
+new Chart(document.getElementById("spendingChart"),{
+
+type:"bar",
+
+data:{
+labels:teams,
+datasets:[{
+label:"Team Spending (Cr)",
+data:spending
+}]
+}
+
+})
+
+
+// squad chart
+new Chart(document.getElementById("squadChart"),{
+
+type:"pie",
+
+data:{
+labels:teams,
+datasets:[{
+label:"Squad Size",
+data:squadSize
+}]
+}
+
+})
+
+function goLeaderboard(){
+
+window.location.href="leaderboard.html"
+
+}
+
+</script>
+
+</body>
+
+</html>

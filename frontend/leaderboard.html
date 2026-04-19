@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Auction Leaderboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>IPL Auction Leaderboard</h1>
+
+<table id="leaderboardTable">
+
+<tr>
+<th>Rank</th>
+<th>Team</th>
+<th>Players Bought</th>
+<th>Remaining Purse</th>
+<th>Score</th>
+</tr>
+
+</table>
+
+<button onclick="restart()">Restart Auction</button>
+
+<script>
+
+let squads = JSON.parse(localStorage.getItem("auctionSquads")) || {}
+let purse = JSON.parse(localStorage.getItem("auctionPurse")) || {}
+
+let results = []
+
+for(let team in squads){
+
+let players = squads[team].length
+let remaining = purse[team]
+
+let score = (players * 5) + (remaining * 0.5)
+
+results.push({
+team:team,
+players:players,
+purse:remaining,
+score:score
+})
+
+}
+
+// sort by score
+results.sort((a,b)=>b.score - a.score)
+
+let table = document.getElementById("leaderboardTable")
+
+results.forEach((t,i)=>{
+
+let row = `
+<tr>
+<td>${i+1}</td>
+<td>${t.team}</td>
+<td>${t.players}</td>
+<td>₹${t.purse} Cr</td>
+<td>${t.score.toFixed(1)}</td>
+</tr>
+`
+
+table.innerHTML += row
+
+})
+
+function restart(){
+
+localStorage.clear()
+
+window.location.href="index.html"
+
+}
+
+</script>
+
+</body>
+
+</html>

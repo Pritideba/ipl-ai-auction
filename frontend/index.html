@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>IPL AI Auction Simulator</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>IPL AI Auction Simulator</h1>
+
+<h2>Select Your Team</h2>
+
+<div class="teamContainer">
+
+<button onclick="selectTeam('MI')">Mumbai Indians</button>
+
+<button onclick="selectTeam('CSK')">Chennai Super Kings</button>
+
+<button onclick="selectTeam('RCB')">Royal Challengers Bangalore</button>
+
+<button onclick="selectTeam('KKR')">Kolkata Knight Riders</button>
+
+<button onclick="selectTeam('DC')">Delhi Capitals</button>
+
+<button onclick="selectTeam('RR')">Rajasthan Royals</button>
+
+<button onclick="selectTeam('SRH')">Sunrisers Hyderabad</button>
+
+<button onclick="selectTeam('PBKS')">Punjab Kings</button>
+
+<button onclick="selectTeam('LSG')">Lucknow Super Giants</button>
+
+<button onclick="selectTeam('GT')">Gujarat Titans</button>
+
+</div>
+
+<script>
+
+function selectTeam(team){
+
+localStorage.setItem("myTeam",team)
+
+window.location.href="auction.html"
+
+}
+
+</script>
+
+</body>
+
+</html>

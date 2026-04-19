@@ -1,0 +1,90 @@
+body{
+background:#0a0de6;
+color:white;
+font-family:Arial, Helvetica, sans-serif;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+/* HEADER */
+
+h1{
+margin-top:20px;
+font-size:34px;
+}
+
+h2{
+margin-bottom:20px;
+}
+
+/* MAIN AUCTION LAYOUT */
+
+.auctionLayout{
+display:grid;
+grid-template-columns: 250px 420px 300px;
+gap:30px;
+justify-content:center;
+margin-top:40px;
+padding:20px;
+}
+
+/* PURSE BOARD */
+
+.purseBoard{
+background:#4a9fc4;
+padding:20px;
+border-radius:12px;
+text-align:left;
+}
+
+.purseBoard ul{
+list-style:none;
+padding:0;
+}
+
+/* AUCTION CARD */
+
+.auctionCard{
+background:#7a41c3;
+padding:30px;
+border-radius:12px;
+box-shadow:0 10px 20px rgba(0,0,0,0.4);
+}
+
+/* BUTTONS */
+
+button{
+padding:10px 18px;
+margin:8px;
+background:#facc15;
+border:none;
+border-radius:6px;
+cursor:pointer;
+font-weight:bold;
+}
+
+button:hover
+
+/* BID HISTORY */
+
+.history{
+background:#a2cf26;
+padding:10px;
+margin-top:15px;
+border-radius:6px;
+height:140px;
+overflow-y:auto;
+text-align:left;
+}
+
+/* SQUAD BOARD */
+
+.squadBoard{
+background:#d26f28;
+padding:20px;
+border-radius:12px;
+text-align:left;
+max-height:500px;
+overflow-y:auto;
+}

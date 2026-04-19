@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>IPL AI Auction Simulator</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>IPL Auction Simulator</h1>
+
+<h2>Your Team: <span id="myTeam"></span></h2>
+<h3 id="setName"></h3>
+
+<div class="auctionLayout">
+
+<!-- LEFT SIDE : TEAM PURSE -->
+
+<div class="purseBoard">
+
+<h3>Team Purse</h3>
+
+<ul id="teamPurseBoard"></ul>
+
+</div>
+
+<!-- CENTER : LIVE AUCTION -->
+
+<div class="auctionCard">
+
+<h2 id="playerName">Loading...</h2>
+
+<p>Country: <span id="country"></span></p>
+
+<p>Role: <span id="role"></span></p>
+
+<p>Base Price: ₹<span id="price"></span> Cr</p>
+
+<h3>Current Bid: ₹<span id="bid"></span> Cr</h3>
+
+<h3>Highest Bidder: <span id="highestBidder"></span></h3>
+
+<h3>Time Left: <span id="timer"></span> sec</h3>
+
+<div class="buttons">
+
+<button onclick="userBid()">Your Bid +1</button>
+
+<button onclick="skipPlayer()">Skip Player</button>
+
+</div>
+
+<h3>Bid History</h3>
+
+<div id="bidHistory" class="history"></div>
+
+</div>
+
+<!-- RIGHT SIDE : TEAM SQUADS -->
+
+<div class="squadBoard">
+
+<h3>Team Squads</h3>
+
+<div id="allSquads"></div>
+
+</div>
+
+</div>
+
+<div class="purseBoard">
+<h3>Team Purse</h3>
+<ul id="teamPurseBoard"></ul>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

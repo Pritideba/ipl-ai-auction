@@ -1,0 +1,368 @@
+player,country,type,role,base_price,rating
+Virat Kohli,India,Capped,Batter,2,96
+Rohit Sharma,India,Capped,Batter,2,95
+Shubman Gill,India,Capped,Batter,2,92
+KL Rahul,India,Capped,Wicketkeeper,2,90
+Rishabh Pant,India,Capped,Wicketkeeper,2,93
+Ishan Kishan,India,Capped,Wicketkeeper,2,85
+Sanju Samson,India,Capped,Wicketkeeper,2,87
+Jos Buttler,England,Capped,Wicketkeeper,2,95
+Jonny Bairstow,England,Capped,Wicketkeeper,2,88
+Quinton de Kock,South Africa,Capped,Wicketkeeper,2,90
+Nicholas Pooran,West Indies,Capped,Wicketkeeper,2,88
+Rahmanullah Gurbaz,Afghanistan,Capped,Wicketkeeper,1,80
+Dinesh Karthik,India,Capped,Wicketkeeper,1,78
+MS Dhoni,India,Capped,Wicketkeeper,2,92
+KS Bharat,India,Capped,Wicketkeeper,1,70
+Phil Salt,England,Capped,Wicketkeeper,1,82
+Suryakumar Yadav,India,Capped,Batter,2,95
+Shreyas Iyer,India,Capped,Batter,2,90
+Ruturaj Gaikwad,India,Capped,Batter,1,88
+Tilak Varma,India,Capped,Batter,1,85
+Yashasvi Jaiswal,India,Capped,Batter,1,91
+Sai Sudharsan,India,Capped,Batter,1,86
+Devon Conway,New Zealand,Capped,Batter,2,90
+Kane Williamson,New Zealand,Capped,Batter,2,92
+David Warner,Australia,Capped,Batter,2,93
+Steve Smith,Australia,Capped,Batter,2,91
+Joe Root,England,Capped,Batter,2,90
+Aiden Markram,South Africa,Capped,Batter,2,88
+David Miller,South Africa,Capped,Batter,2,90
+Shimron Hetmyer,West Indies,Capped,Batter,1,84
+Faf du Plessis,South Africa,Capped,Batter,2,91
+Travis Head,Australia,Capped,Batter,2,94
+Rassie van der Dussen,South Africa,Capped,Batter,1,84
+Harry Brook,England,Capped,Batter,2,89
+Glenn Phillips,New Zealand,Capped,Batter,1,86
+Paul Stirling,Ireland,Capped,Batter,1,82
+Pathum Nissanka,Sri Lanka,Capped,Batter,1,83
+Charith Asalanka,Sri Lanka,Capped,Batter,1,82
+Hardik Pandya,India,Capped,Allrounder,2,93
+Ravindra Jadeja,India,Capped,Allrounder,2,94
+Axar Patel,India,Capped,Allrounder,2,88
+Washington Sundar,India,Capped,Allrounder,1,82
+Shardul Thakur,India,Capped,Allrounder,1,80
+Glenn Maxwell,Australia,Capped,Allrounder,2,92
+Marcus Stoinis,Australia,Capped,Allrounder,2,88
+Cameron Green,Australia,Capped,Allrounder,2,90
+Ben Stokes,England,Capped,Allrounder,2,94
+Sam Curran,England,Capped,Allrounder,2,90
+Chris Woakes,England,Capped,Allrounder,1,82
+Andre Russell,West Indies,Capped,Allrounder,2,93
+Sunil Narine,West Indies,Capped,Allrounder,2,92
+Mitchell Santner,New Zealand,Capped,Allrounder,1,80
+Mohammad Nabi,Afghanistan,Capped,Allrounder,1,79
+Jason Holder,West Indies,Capped,Allrounder,1,82
+Liam Livingstone,England,Capped,Allrounder,2,90
+Daryl Mitchell,New Zealand,Capped,Allrounder,2,88
+Dasun Shanaka,Sri Lanka,Capped,Allrounder,1,82
+Sikandar Raza,Zimbabwe,Capped,Allrounder,1,84
+Shakib Al Hasan,Bangladesh,Capped,Allrounder,2,90
+Jasprit Bumrah,India,Capped,Bowler,2,97
+Mohammed Shami,India,Capped,Bowler,2,92
+Mohammed Siraj,India,Capped,Bowler,2,90
+Bhuvneshwar Kumar,India,Capped,Bowler,2,88
+Yuzvendra Chahal,India,Capped,Bowler,2,91
+Kuldeep Yadav,India,Capped,Bowler,2,89
+Ravichandran Ashwin,India,Capped,Bowler,2,90
+Deepak Chahar,India,Capped,Bowler,2,85
+Arshdeep Singh,India,Capped,Bowler,1,86
+Umran Malik,India,Capped,Bowler,1,82
+Mitchell Starc,Australia,Capped,Bowler,2,95
+Pat Cummins,Australia,Capped,Bowler,2,94
+Josh Hazlewood,Australia,Capped,Bowler,2,92
+Trent Boult,New Zealand,Capped,Bowler,2,92
+Lockie Ferguson,New Zealand,Capped,Bowler,2,88
+Rashid Khan,Afghanistan,Capped,Bowler,2,96
+Kagiso Rabada,South Africa,Capped,Bowler,2,93
+Anrich Nortje,South Africa,Capped,Bowler,2,90
+Mark Wood,England,Capped,Bowler,2,89
+Reece Topley,England,Capped,Bowler,1,80
+
+Wanindu Hasaranga,Sri Lanka,Capped,Bowler,2,90
+
+Shivam Dube,India,Capped,Allrounder,2,90
+Matheesha Pathirana,Sri Lanka,Capped,Bowler,2,88
+Noor Ahmad,Afghanistan,Capped,Bowler,2,87
+Rachin Ravindra,New Zealand,Capped,Allrounder,2,89
+Deepak Hooda,India,Capped,Allrounder,1,82
+Vijay Shankar,India,Capped,Allrounder,1,80
+Nathan Ellis,Australia,Capped,Bowler,1,85
+Jamie Overton,England,Capped,Allrounder,1,83
+Kamlesh Nagarkoti,India,Capped,Bowler,1,80
+Shreyas Gopal,India,Capped,Bowler,1,79
+Ryan Rickelton,South Africa,Capped,Wicketkeeper,1,85
+Will Jacks,England,Capped,Allrounder,2,88
+Mitchell Marsh,Australia,Capped,Allrounder,2,91
+Mohsin Khan,India,Capped,Bowler,1,84
+Mayank Yadav,India,Capped,Bowler,1,86
+Akash Deep,India,Capped,Bowler,1,83
+Heinrich Klaasen,South Africa,Capped,Wicketkeeper,2,93
+Abhishek Sharma,India,Capped,Allrounder,2,88
+Harshal Patel,India,Capped,Bowler,2,87
+Adam Zampa,Australia,Capped,Bowler,2,88
+Rahul Chahar,India,Capped,Bowler,1,84
+Jaydev Unadkat,India,Capped,Bowler,1,82
+Abhinav Manohar,India,Capped,Batter,1,80
+Jofra Archer,England,Capped,Bowler,2,93
+Maheesh Theekshana,Sri Lanka,Capped,Bowler,2,89
+Fazalhaq Farooqi,Afghanistan,Capped,Bowler,1,85
+Kumar Kartikeya,India,Capped,Bowler,1,80
+Yudhvir Singh,India,Capped,Bowler,1,78
+Marco Jansen,South Africa,Capped,Allrounder,2,88
+Josh Inglis,Australia,Capped,Wicketkeeper,2,87
+Azmatullah Omarzai,Afghanistan,Capped,Allrounder,1,85
+Aaron Hardie,Australia,Capped,Allrounder,1,84
+Xavier Bartlett,Australia,Capped,Bowler,1,83
+Tristan Stubbs,South Africa,Capped,Batter,2,88
+Jake Fraser-McGurk,Australia,Capped,Batter,2,89
+Donovan Ferreira,South Africa,Capped,Allrounder,1,84
+Dushmantha Chameera,Sri Lanka,Capped,Bowler,1,85
+T Natarajan,India,Capped,Bowler,2,90
+Gerald Coetzee,South Africa,Capped,Bowler,2,89
+Prasidh Krishna,India,Capped,Bowler,2,88
+Mahipal Lomror,India,Capped,Allrounder,1,82
+Sai Kishore,India,Capped,Bowler,1,84
+Ishant Sharma,India,Capped,Bowler,1,86
+Jayant Yadav,India,Capped,Allrounder,1,80
+Romario Shepherd,West Indies,Capped,Allrounder,1,86
+Nuwan Thushara,Sri Lanka,Capped,Bowler,1,84
+Tim David,Australia,Capped,Allrounder,2,90
+Krunal Pandya,India,Capped,Allrounder,2,88
+Suyash Sharma,India,Capped,Bowler,1,82
+Rinku Singh,India,Capped,Batter,2,90
+Venkatesh Iyer,India,Capped,Allrounder,2,88
+Varun Chakravarthy,India,Capped,Bowler,2,89
+Anukul Roy,India,Capped,Allrounder,1,80
+Vaibhav Arora,India,Capped,Bowler,1,82
+Spencer Johnson,Australia,Capped,Bowler,1,84
+Rovman Powell,West Indies,Capped,Batter,2,87
+Kusal Mendis,Sri Lanka,Capped,Wicketkeeper,2,87
+Sherfane Rutherford,West Indies,Capped,Batter,1,84
+Karim Janat,Afghanistan,Capped,Allrounder,1,83
+Kulwant Khejroliya,India,Capped,Bowler,1,78
+Rachin Ravindra,New Zealand,Capped,Allrounder,2,89
+Shaik Rasheed,India,Capped,Batter,1,78
+Mukesh Choudhary,India,Capped,Bowler,1,80
+Anshul Kamboj,India,Capped,Allrounder,1,79
+Naman Dhir,India,Capped,Allrounder,1,78
+Raj Angad Bawa,India,Capped,Allrounder,1,80
+Arjun Tendulkar,India,Capped,Bowler,1,75
+Nehal Wadhera,India,Capped,Batter,1,84
+Shashank Singh,India,Capped,Allrounder,1,83
+Harpreet Brar,India,Capped,Allrounder,1,82
+Vijaykumar Vyshak,India,Capped,Bowler,1,80
+Kuldeep Sen,India,Capped,Bowler,1,81
+Abhishek Porel,India,Capped,Wicketkeeper,1,82
+Sameer Rizvi,India,Capped,Batter,1,83
+Ashutosh Sharma,India,Capped,Allrounder,1,82
+Darshan Nalkande,India,Capped,Bowler,1,80
+Shivam Mavi,India,Capped,Bowler,1,82
+Chetan Sakariya,India,Capped,Bowler,1,80
+Siddarth Kaul,India,Capped,Bowler,1,78
+Saurabh Kumar,India,Capped,Allrounder,1,79
+Shams Mulani,India,Capped,Allrounder,1,78
+Priyank Panchal,India,Capped,Batter,1,78
+Karun Nair,India,Capped,Batter,1,82
+Manish Pandey,India,Capped,Batter,2,85
+Kedar Jadhav,India,Capped,Allrounder,1,80
+Ambati Rayudu,India,Capped,Batter,2,86
+Jason Roy,England,Capped,Batter,2,88
+Alex Hales,England,Capped,Batter,2,89
+Dawid Malan,England,Capped,Batter,2,90
+Tom Banton,England,Capped,Wicketkeeper,1,85
+Sam Billings,England,Capped,Wicketkeeper,2,87
+Colin Munro,New Zealand,Capped,Batter,1,84
+Martin Guptill,New Zealand,Capped,Batter,2,88
+Finn Allen,New Zealand,Capped,Wicketkeeper,1,86
+Tim Seifert,New Zealand,Capped,Wicketkeeper,1,84
+Jimmy Neesham,New Zealand,Capped,Allrounder,1,85
+Chris Lynn,Australia,Capped,Batter,2,88
+Aaron Finch,Australia,Capped,Batter,2,90
+Matthew Wade,Australia,Capped,Wicketkeeper,2,87
+Moises Henriques,Australia,Capped,Allrounder,1,84
+Daniel Sams,Australia,Capped,Allrounder,1,83
+Tabraiz Shamsi,South Africa,Capped,Bowler,2,88
+Lungi Ngidi,South Africa,Capped,Bowler,2,87
+Beuran Hendricks,South Africa,Capped,Bowler,1,82
+George Linde,South Africa,Capped,Allrounder,1,83
+Evin Lewis,West Indies,Capped,Batter,2,88
+Brandon King,West Indies,Capped,Batter,1,85
+Kyle Mayers,West Indies,Capped,Allrounder,2,88
+Odean Smith,West Indies,Capped,Allrounder,1,83
+Alzarri Joseph,West Indies,Capped,Bowler,2,89
+Litton Das,Bangladesh,Capped,Wicketkeeper,2,87
+Taskin Ahmed,Bangladesh,Capped,Bowler,2,88
+Shoriful Islam,Bangladesh,Capped,Bowler,1,83
+Hazratullah Zazai,Afghanistan,Capped,Batter,1,84
+Najibullah Zadran,Afghanistan,Capped,Batter,1,85
+Mujeeb Ur Rahman,Afghanistan,Capped,Bowler,2,90
+Kusal Perera,Sri Lanka,Capped,Wicketkeeper,2,88
+Avishka Fernando,Sri Lanka,Capped,Batter,1,85
+Dhananjaya de Silva,Sri Lanka,Capped,Allrounder,2,88
+Chamika Karunaratne,Sri Lanka,Capped,Allrounder,1,82
+Paul van Meekeren,Netherlands,Capped,Bowler,1,80
+Bas de Leede,Netherlands,Capped,Allrounder,1,83
+Curtis Campher,Ireland,Capped,Allrounder,1,82
+Joshua Little,Ireland,Capped,Bowler,2,88
+Gerhard Erasmus,Namibia,Capped,Allrounder,1,80
+David Wiese,Namibia,Capped,Allrounder,1,85
+Ravikumar Samarth,India,Capped,Batter,1,78
+Baba Aparajith,India,Capped,Allrounder,1,80
+Hanuma Vihari,India,Capped,Allrounder,2,85
+Sheldon Jackson,India,Capped,Wicketkeeper,1,80
+Vishnu Vinod,India,Capped,Wicketkeeper,1,78
+Ankit Rajpoot,India,Capped,Bowler,1,80
+Mohit Sharma,India,Capped,Bowler,2,85
+Varun Aaron,India,Capped,Bowler,1,82
+Ishwar Pandey,India,Capped,Bowler,1,78
+Ravisrinivasan Sai Kishore,India,Capped,Bowler,1,84
+Shahbaz Nadeem,India,Capped,Bowler,1,82
+Piyush Chawla,India,Capped,Bowler,2,86
+Amit Mishra,India,Capped,Bowler,2,87
+Yash Dhull,India,Uncapped,Batter,0.2,78
+Rohan Kunnummal,India,Uncapped,Batter,0.2,77
+Saiyad Mushtaq Ali,India,Uncapped,Batter,0.2,75
+Abhishek Sharma,India,Uncapped,Allrounder,0.2,84
+Nehal Wadhera,India,Uncapped,Batter,0.2,83
+Naman Dhir,India,Uncapped,Allrounder,0.2,78
+Shashank Singh,India,Uncapped,Allrounder,0.2,82
+Ashutosh Sharma,India,Uncapped,Allrounder,0.2,81
+Sameer Rizvi,India,Uncapped,Batter,0.2,84
+Musheer Khan,India,Uncapped,Allrounder,0.2,80
+Priyansh Arya,India,Uncapped,Batter,0.2,76
+Tilak Naidu,India,Uncapped,Batter,0.2,74
+Harnoor Singh,India,Uncapped,Batter,0.2,78
+Rajat Patidar,India,Uncapped,Batter,0.2,85
+Anmolpreet Singh,India,Uncapped,Batter,0.2,80
+Prerak Mankad,India,Uncapped,Allrounder,0.2,79
+Kumar Kushagra,India,Uncapped,Wicketkeeper,0.2,75
+Vishnu Vinod,India,Uncapped,Wicketkeeper,0.2,78
+Upendra Yadav,India,Uncapped,Wicketkeeper,0.2,76
+Luvnith Sisodia,India,Uncapped,Wicketkeeper,0.2,74
+Hrithik Shokeen,India,Uncapped,Allrounder,0.2,80
+Rajvardhan Hangargekar,India,Uncapped,Allrounder,0.2,82
+Arjun Tendulkar,India,Uncapped,Allrounder,0.2,77
+Darshan Nalkande,India,Uncapped,Allrounder,0.2,80
+Nishant Sindhu,India,Uncapped,Allrounder,0.2,81
+
+Suyash Sharma,India,Uncapped,Bowler,0.2,83
+Kartik Tyagi,India,Uncapped,Bowler,0.2,79
+
+Akash Singh,India,Uncapped,Bowler,0.2,78
+Chetan Sakariya,India,Uncapped,Bowler,0.2,79
+Mukesh Choudhary,India,Uncapped,Bowler,0.2,81
+Vicky Ostwal,India,Uncapped,Bowler,0.2,78
+M Siddharth,India,Uncapped,Bowler,0.2,76
+Ravi Bishnoi,India,Uncapped,Bowler,0.2,88
+Noor Ahmad,Afghanistan,Uncapped,Bowler,0.2,87
+Dewald Brevis,South Africa,Uncapped,Batter,0.2,86
+Tristan Stubbs,South Africa,Uncapped,Batter,0.2,85
+Donovan Ferreira,South Africa,Uncapped,Allrounder,0.2,83
+Jake Fraser-McGurk,Australia,Uncapped,Batter,0.2,87
+Cooper Connolly,Australia,Uncapped,Allrounder,0.2,82
+Tanveer Sangha,Australia,Uncapped,Bowler,0.2,84
+Fazalhaq Farooqi,Afghanistan,Uncapped,Bowler,0.2,85
+Ibrahim Zadran,Afghanistan,Uncapped,Batter,0.2,83
+Rehan Ahmed,England,Uncapped,Allrounder,0.2,84
+Tom Banton,England,Uncapped,Wicketkeeper,0.2,83
+Gerald Coetzee,South Africa,Uncapped,Bowler,0.2,88
+Marco Jansen,South Africa,Uncapped,Allrounder,0.2,87
+Abhishek Sharma,India,Uncapped,Allrounder,0.2,82
+Riyan Parag,India,Uncapped,Allrounder,0.2,80
+Rahul Tewatia,India,Uncapped,Allrounder,0.2,81
+Shahbaz Ahmed,India,Uncapped,Allrounder,0.2,78
+Abdul Samad,India,Uncapped,Allrounder,0.2,76
+Venkatesh Iyer,India,Uncapped,Allrounder,0.2,82
+Ramandeep Singh,India,Uncapped,Allrounder,0.2,75
+Nitish Kumar Reddy,India,Uncapped,Allrounder,0.2,80
+Prabhsimran Singh,India,Uncapped,Wicketkeeper,0.2,76
+Dhruv Jurel,India,Uncapped,Wicketkeeper,0.2,80
+Anuj Rawat,India,Uncapped,Wicketkeeper,0.2,74
+Narayan Jagadeesan,India,Uncapped,Wicketkeeper,0.2,73
+Kumar Kushagra,India,Uncapped,Wicketkeeper,0.2,72
+Sai Sudharsan,India,Uncapped,Batter,0.2,86
+Nitish Rana,India,Uncapped,Batter,0.2,82
+Rahul Tripathi,India,Uncapped,Batter,0.2,84
+Sarfaraz Khan,India,Uncapped,Batter,0.2,78
+Shahrukh Khan,India,Uncapped,Batter,0.2,76
+Priyam Garg,India,Uncapped,Batter,0.2,72
+Abhimanyu Easwaran,India,Uncapped,Batter,0.2,70
+Devdutt Padikkal,India,Uncapped,Batter,0.2,80
+Prithvi Shaw,India,Uncapped,Batter,0.2,82
+Yash Dhull,India,Uncapped,Batter,0.2,78
+Tilak Naidu,India,Uncapped,Batter,0.2,74
+Akash Madhwal,India,Uncapped,Bowler,0.2,78
+Mukesh Kumar,India,Uncapped,Bowler,0.2,80
+Tushar Deshpande,India,Uncapped,Bowler,0.2,78
+Mayank Markande,India,Uncapped,Bowler,0.2,75
+Chetan Sakariya,India,Uncapped,Bowler,0.2,76
+Sandeep Sharma,India,Uncapped,Bowler,0.2,80
+Avesh Khan,India,Uncapped,Bowler,0.2,82
+Kartik Tyagi,India,Uncapped,Bowler,0.2,75
+Khaleel Ahmed,India,Uncapped,Bowler,0.2,80
+Navdeep Saini,India,Uncapped,Bowler,0.2,74
+Shivam Mavi,India,Uncapped,Bowler,0.2,76
+Yash Dayal,India,Uncapped,Bowler,0.2,78
+Harshit Rana,India,Uncapped,Bowler,0.2,82
+Arzan Nagwaswalla,India,Uncapped,Bowler,0.2,70
+Yash Dhull,India,Uncapped,Batter,0.2,80
+Musheer Khan,India,Uncapped,Allrounder,0.2,82
+Shaik Rasheed,India,Uncapped,Batter,0.2,79
+Harnoor Singh,India,Uncapped,Batter,0.2,78
+Angkrish Raghuvanshi,India,Uncapped,Batter,0.2,81
+Rajvardhan Hangargekar,India,Uncapped,Allrounder,0.2,83
+Vicky Ostwal,India,Uncapped,Bowler,0.2,80
+Ravi Kumar,India,Uncapped,Bowler,0.2,79
+Nishant Sindhu,India,Uncapped,Allrounder,0.2,82
+Dinesh Bana,India,Uncapped,Wicketkeeper,0.2,77
+Uday Saharan,India,Uncapped,Batter,0.2,82
+Sachin Dhas,India,Uncapped,Batter,0.2,81
+Arshin Kulkarni,India,Uncapped,Allrounder,0.2,83
+Adarsh Singh,India,Uncapped,Batter,0.2,78
+Priyanshu Moliya,India,Uncapped,Allrounder,0.2,77
+Murugan Abhishek,India,Uncapped,Allrounder,0.2,76
+Kwena Maphaka,South Africa,Uncapped,Bowler,0.2,85
+Dewan Marais,South Africa,Uncapped,Batter,0.2,78
+David Teeger,South Africa,Uncapped,Allrounder,0.2,80
+Lhuan-dre Pretorius,South Africa,Uncapped,Wicketkeeper,0.2,79
+Harry Dixon,Australia,Uncapped,Batter,0.2,80
+Hugh Weibgen,Australia,Uncapped,Batter,0.2,79
+Charlie Anderson,Australia,Uncapped,Allrounder,0.2,78
+Hamza Shaikh,England,Uncapped,Batter,0.2,80
+Noah Thain,England,Uncapped,Allrounder,0.2,79
+Ayan Afzal Khan,UAE,Uncapped,Allrounder,0.2,78
+Dhruv Parashar,UAE,Uncapped,Bowler,0.2,76
+
+Jewel Andrew,West Indies,Uncapped,Wicketkeeper,0.2,80
+Nathan Edward,West Indies,Uncapped,Allrounder,0.2,79
+Ravindu Rasantha,Sri Lanka,Uncapped,Batter,0.2,80
+Sineth Jayawardene,Sri Lanka,Uncapped,Allrounder,0.2,79
+Yash Dhull,India,Uncapped,Batter,0.2,80
+Musheer Khan,India,Uncapped,Allrounder,0.2,82
+Shaik Rasheed,India,Uncapped,Batter,0.2,79
+Harnoor Singh,India,Uncapped,Batter,0.2,78
+Angkrish Raghuvanshi,India,Uncapped,Batter,0.2,81
+Rajvardhan Hangargekar,India,Uncapped,Allrounder,0.2,83
+Vicky Ostwal,India,Uncapped,Bowler,0.2,80
+Ravi Kumar,India,Uncapped,Bowler,0.2,79
+Nishant Sindhu,India,Uncapped,Allrounder,0.2,82
+Dinesh Bana,India,Uncapped,Wicketkeeper,0.2,77
+Uday Saharan,India,Uncapped,Batter,0.2,82
+Sachin Dhas,India,Uncapped,Batter,0.2,81
+Arshin Kulkarni,India,Uncapped,Allrounder,0.2,83
+Adarsh Singh,India,Uncapped,Batter,0.2,78
+Priyanshu Moliya,India,Uncapped,Allrounder,0.2,77
+Murugan Abhishek,India,Uncapped,Allrounder,0.2,76
+Vaibhav Suryavanshi,India,Uncapped,Batter,0.2,83
+Kwena Maphaka,South Africa,Uncapped,Bowler,0.2,85
+Dewan Marais,South Africa,Uncapped,Batter,0.2,78
+David Teeger,South Africa,Uncapped,Allrounder,0.2,80
+Lhuan-dre Pretorius,South Africa,Uncapped,Wicketkeeper,0.2,79
+Harry Dixon,Australia,Uncapped,Batter,0.2,80
+Hugh Weibgen,Australia,Uncapped,Batter,0.2,79
+Charlie Anderson,Australia,Uncapped,Allrounder,0.2,78
+Hamza Shaikh,England,Uncapped,Batter,0.2,80
+Noah Thain,England,Uncapped,Allrounder,0.2,79
+Ayan Afzal Khan,UAE,Uncapped,Allrounder,0.2,78
+Dhruv Parashar,UAE,Uncapped,Bowler,0.2,76
